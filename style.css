@@ -1,3 +1,20 @@
 body{
     background-color: rgb(31, 175, 86);
 }
+
+.titulo{
+justify-content: center;   
+text-align: center;
+}
+.cabecalho{
+    padding: 14px 0px;
+    margin: 48px 60px;
+}
+.imagemlogo{
+    width: 200px;
+    height: 200px;
+}
+.corpo{
+justify-content: center;   
+text-align: center;
+}
